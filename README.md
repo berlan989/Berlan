@@ -1,5 +1,3 @@
--- ESP com Team Check - Simples e funcional
--- A interface é feita com Drawing API (nativo)
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
